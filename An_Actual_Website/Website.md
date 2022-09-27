@@ -17,14 +17,14 @@ I'm a 10th grader attending Whitney high school who codes predominantly in pytho
 ### Repositories
 
 Cheatsheets / Personal Documentation
-- Python Cheatsheet : https://github.com/ChrisMV2007/Python_Cheatsheet
+- Python Cheatsheet : [Link](https://github.com/ChrisMV2007/Python_Cheatsheet)
 
 Personal and Academic Projects
-- Micro Projects : https://github.com/ChrisMV2007/Micro-Projects
-- APCSP Projects : https://github.com/ChrisMV2007/APCSP_Projects
+- Micro Projects : [Link](https://github.com/ChrisMV2007/Micro-Projects)
+- APCSP Projects : [Link](https://github.com/ChrisMV2007/APCSP_Projects)
 
 Hackathons and Competitions
-- World Coding Club Hackathon 2022 : https://github.com/ChrisMV2007/WCC-Hackathon-2022 
+- World Coding Club Hackathon 2022 : [link](https://github.com/ChrisMV2007/WCC-Hackathon-2022)
 
 <hr />
 
